@@ -1,0 +1,17 @@
+export const TX = {
+  bg:       '#1f1814',
+  bg2:      '#2a221c',
+  surface:  '#332921',
+  surface2: '#3d3128',
+  ink:      '#f4ebd9',
+  ink2:     'rgba(244,235,217,0.78)',
+  muted:    'rgba(244,235,217,0.50)',
+  line:     'rgba(244,235,217,0.14)',
+  lineSoft: 'rgba(244,235,217,0.07)',
+  accent:   '#e07a3c',
+  accent2:  '#d4a574',
+  good:     '#a8b572',
+  serif:    '"Fraunces", "Playfair Display", Georgia, serif',
+  sans:     '"DM Sans", system-ui, sans-serif',
+  mono:     '"JetBrains Mono", "Fira Mono", ui-monospace, monospace',
+};
